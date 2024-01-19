@@ -1,0 +1,27 @@
+2024-01-19T09:04:33+00:00 DEBUG POST: https://ads.tiktok.com/marketing_api/api/developer/app/create_auto_approve/
+
+{"business_platform":"PROD","smb_id":"tt4b_woocommerce_65aa3b212c83ehttplocalhostlabutineriewp-admin","smb_name":"PROD","redirect_url":"http:\/\/localhost\/la_butinerie\/wp-admin\/"}
+ ajax: no
+2024-01-19T09:04:33+00:00 DEBUG Tt4b_Mapi_Class::create_open_source_app: Response: 
+
+HTTP/1.1 200 OK
+Content-Type: application/json
+X-Tt-Logid: 202401190904322973AC5A35BB4C0BBC13,202401190904322973AC5A35BB4C0BBC13
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Server-Timing: inner; dur=62
+x-tt-trace-host: 019e9e8ff6b6e65a3a6524dee2e1d2c7e91ca565d0fd6d41c05aa121f089fd29b8424e170b51e12e4da99e69c35378ebaf1fe46814874011b985c58b8ca928a9f14b00e2ff9fdd3964af53409094e26e91cf8d98d7e7a2dbdb8e9cf56794bb449b
+x-tt-trace-id: 00-2401190904322973AC5A35BB4C0BBC13-77202177775E712C-00
+Server: TLB
+Content-Encoding: gzip
+Date: Fri, 19 Jan 2024 09:04:33 GMT
+Content-Length: 210
+X-Cache: TCP_MISS from a23-77-196-176.deploy.akamaitechnologies.com (AkamaiGHost/11.4.0.1-53785976) (-)
+Connection: close
+Vary: Accept-Encoding
+x-tt-trace-tag: id=16;cdn-cache=miss;type=dyn
+Server-Timing: cdn-cache; desc=MISS, edge; dur=17, origin; dur=221
+X-Origin-Response-Time: 221,23.77.196.176
+X-Akamai-Request-ID: 4631ce01
+
+{"code":0,"msg":"ok","data":{"app_id":"7325732757584232449","app_secret":"ad39bb1e6edfff95d8fc3c0ae01202b80400dc3d","external_data_key":"7fec8c42-137f-4bb1-b96e-7389bd28ebaf","redirect_uri":"http:\/\/localhost\/la_butinerie\/wp-admin\/"}}
+

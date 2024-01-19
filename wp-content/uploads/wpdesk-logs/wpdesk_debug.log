@@ -1,0 +1,4 @@
+[2024-01-19T10:54:25.949192+00:00] wpdesk.DEBUG: Sender payload: {"click_action":"plugin_deactivation","plugin":"flexible-invoices\/flexible-invoices.php","plugin_name":"Flexible Invoices for WooCommerce and WordPress","reason":"plugin_stopped_working"} {"source":"wpdesk-sender"} []
+[2024-01-19T10:54:27.086969+00:00] wpdesk.DEBUG: Sender response: {"headers":[],"body":"","response":{"code":false,"message":false},"cookies":[],"http_response":null} {"source":"wpdesk-sender"} []
+[2024-01-19T11:08:41.501562+00:00] wpdesk.DEBUG: Sender payload: {"click_action":"plugin_deactivation","plugin":"flexible-invoices\/flexible-invoices.php","plugin_name":"Flexible Invoices for WooCommerce and WordPress","reason":"temporary_deactivation"} {"source":"wpdesk-sender"} []
+[2024-01-19T11:08:42.612877+00:00] wpdesk.DEBUG: Sender response: {"headers":[],"body":"","response":{"code":false,"message":false},"cookies":[],"http_response":null} {"source":"wpdesk-sender"} []
